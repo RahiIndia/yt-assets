@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0.0",
+  "download_url": "https://example.com/download/YTDownloader_new.exe",
+  "release_notes": "New version available!\n- Faster speed\n- Bug fixes\nUpdate now? 🚀",
+  "required": false,
+  "active": true
+}
