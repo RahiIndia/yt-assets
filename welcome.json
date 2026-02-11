@@ -1,0 +1,7 @@
+{
+  "active": false,
+  "message": "Server under maintenance",
+  "color": "#ff0000",
+  "show_version": false,
+  "disable_download": true
+}
