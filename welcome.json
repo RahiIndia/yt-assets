@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "message": "Server under maintenance",
   "color": "#ff0000",
   "show_version": false,
