@@ -2,6 +2,6 @@
   "active": true,
   "message": "Server complete maintenance",
   "color": "#ff0000",
-  "show_version": true,
+  "show_version": false,
   "disable_download": false
 }
